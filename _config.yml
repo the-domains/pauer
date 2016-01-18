@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8757185127061505
+  lightness: 0.09483849806445332
+  rhythmicContrast: 0.3473662248062114
+  saturation: 0.5347086264591735
+cta: {}
+layout_spectrum: 0.43304646782385126
+name: pauer
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7079049008845347
